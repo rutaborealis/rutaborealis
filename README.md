@@ -18,7 +18,6 @@ Python • SQL • NumPy • Pandas • Scikit-learn • Optuna • Hyperopt •
 
 ## 📊 GitHub статистика  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutaborealis&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutaborealis&layout=compact)](https://github.com/rutaborealis)
 
 
 ## ✉️ Контакты  
